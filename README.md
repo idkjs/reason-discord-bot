@@ -3,7 +3,7 @@
 ![project-logo](RecordLogo.png)
 A reasonable discord library
 
-forked from <github:idkjs/record>, updated deps and added setup notes.
+forked from <https://github.com/kfish610/record>, updated deps and added setup notes.
 
 ## Discord Bot Setup
 

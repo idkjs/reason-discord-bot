@@ -1,0 +1,5 @@
+{
+  "clientID":"some-client-id",
+  "token":"some-super-long-discord-token",
+  "client-secret":"some-client-secret"
+}

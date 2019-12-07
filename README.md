@@ -10,6 +10,7 @@ RecordBot is forked from <https://github.com/kfish610/record>, updated deps and 
 See also:
 1. [pocket-mesh](https://github.com/jhrdina/pocket-mesh)
 2. [jaredly/reprocessing-scripts/HotServer.re](https://github.com/jaredly/reprocessing-scripts/blob/master/src/HotServer.re)
+3. [jaredly/reason-websocket](https://github.com/jaredly/reason-websocket) - Reason native example
 
 ## Discord Bot Setup
 

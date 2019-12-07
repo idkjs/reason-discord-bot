@@ -23,3 +23,4 @@ npm-debug.log
 
 bot-settings.json
 .env
+.discord.env

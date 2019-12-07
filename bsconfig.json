@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "sources": [
     {
-      "dir": "src",
-      "subdirs": true
+      "dir": "src/record-bot"
+    },
+    {
+      "dir": "src/comfy-bot"
     },
     {
       "dir": "test",
@@ -18,8 +20,10 @@
   },
   "suffix": ".bs.js",
   "bs-dependencies": [
+    "@ahrefs/bs-dotenv",
     "bs-ws",
-    "@glennsl/bs-json"
+    "@glennsl/bs-json",
+    "bs-fetch"
   ],
   "warnings": {
     "number": "-45",
